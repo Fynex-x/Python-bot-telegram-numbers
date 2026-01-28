@@ -23,14 +23,14 @@
 
 ```
 telegram-checker/
-├── 📄 check_numbers.py          # Основной исполняемый скрипт
+├── 📄 check_numbers.py         # Основной исполняемый скрипт
 ├── 📄 numbers.txt              # Список номеров для проверки
-├── 📄 config.txt              # Конфигурация API (автогенерация)
-├── 📄 user_session.session    # Сессия авторизации
-├── 📄 existing_numbers.txt    # Результат: существующие номера
+├── 📄 config.txt               # Конфигурация API (автогенерация)
+├── 📄 user_session.session     # Сессия авторизации
+├── 📄 existing_numbers.txt     # Результат: существующие номера
 ├── 📄 non_existing_numbers.txt # Результат: проблемные номера
-├── 📄 LICENSE # Лицензия 
-└── 📄 README.md              # Документация
+├── 📄 LICENSE                  # Лицензия 
+└── 📄 README.md                # Документация
 ```
 
 ## 🚀 Быстрый старт
